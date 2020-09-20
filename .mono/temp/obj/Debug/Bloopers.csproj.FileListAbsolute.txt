@@ -1,0 +1,6 @@
+/home/mrblack/src/games/godot/godot_v3/lab/first_game_dotnet/.mono/temp/bin/Debug/Bloopers.dll
+/home/mrblack/src/games/godot/godot_v3/lab/first_game_dotnet/.mono/temp/bin/Debug/Bloopers.pdb
+/home/mrblack/src/games/godot/godot_v3/lab/first_game_dotnet/.mono/temp/obj/Debug/Bloopers.csprojAssemblyReference.cache
+/home/mrblack/src/games/godot/godot_v3/lab/first_game_dotnet/.mono/temp/obj/Debug/Bloopers.csproj.CoreCompileInputs.cache
+/home/mrblack/src/games/godot/godot_v3/lab/first_game_dotnet/.mono/temp/obj/Debug/Bloopers.dll
+/home/mrblack/src/games/godot/godot_v3/lab/first_game_dotnet/.mono/temp/obj/Debug/Bloopers.pdb
