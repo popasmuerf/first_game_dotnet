@@ -1,0 +1,2 @@
+﻿40661
+/home/mrblack/utils/dev_enviroments/gaming/Godot_v3.2.2-stable_mono_x11_64/Godot_v3.2.2-stable_mono_x11.64

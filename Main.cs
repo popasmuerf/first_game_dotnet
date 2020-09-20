@@ -37,6 +37,12 @@ public class Main : Node
 		GetNode<Timer>("MobTimer").Stop() ;
 		GetNode<Timer>("ScoreTimer").Stop() ;
 		GetNode<CanvasLayer>("CanvasLayer").ShowGameOver();
+		var music = GetNode<AudioStreamPlayer>("Music");
+		music.Stop() ;
+		
+		var deathSound = GetNode<AudioStreamPlayer>("DeathSound");
+		deathSound.Play() ;
+		
 		// Replace with function body.
 	}
 	/*
@@ -106,6 +112,9 @@ public class Main : Node
 		hud.UpdateScore(_score);
 		hud.ShowMessage("Get Ready!");
 		hud.ShowMessage(" ");
+		
+		var music = GetNode<AudioStreamPlayer>("Music");
+		music.Play() ;
 	}
 	
 }
